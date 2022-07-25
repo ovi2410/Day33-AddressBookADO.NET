@@ -20,3 +20,4 @@ namespace AddressBookADO.NET
         public string Type { get; set; }
     }
 }
+
